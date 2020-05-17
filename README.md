@@ -1,5 +1,6 @@
-![lbi](lbi.png)
-Ldap Blind Injector tool
+<p align="center">
+  <img src="lbi.png">
+</p>
 
 ### Installation
 Clone the repo.
